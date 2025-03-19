@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "uql6hlnmvcx7wa7f",
+    "password": "XjkdBJM4C7CoJsld9IaP",
+    "database": "b72mn38a2xqx4gcobh41",
+    "host": "b72mn38a2xqx4gcobh41-mysql.services.clever-cloud.com",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "NAmgsxoLMu0FL52OQYgs",
+    "database": "railway",
+    "host": "containers-us-west-202.railway.app",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "uql6hlnmvcx7wa7f",
+    "password": "XjkdBJM4C7CoJsld9IaP",
+    "database": "b72mn38a2xqx4gcobh41",
+    "host": "b72mn38a2xqx4gcobh41-mysql.services.clever-cloud.com",
+    "dialect": "mysql"
+  }
+}
